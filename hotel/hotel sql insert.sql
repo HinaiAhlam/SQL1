@@ -14,4 +14,4 @@ INSERT INTO Staff (staff_id, branch_id, name, job_title, salary) VALUES(1,1,'ahl
 select*from Staff
 
 INSERT INTO Booking_Room (booking_id, room_num, branch_id) VALUES(1,1,1),(2,2,2),(3,3,3),(4,4,4),(5,5,5)
-select*from Booking_Room
+select*from Staff
