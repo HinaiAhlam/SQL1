@@ -19,3 +19,5 @@ select * from Loan
 
 INSERT INTO Employee_Customer (employee_id, customer_id, action_type) VALUES(1,1,'Account-related'),(2,2,'Loan-related'),(3,3,'Other services')
 select * from Employee_Customer 
+
+
